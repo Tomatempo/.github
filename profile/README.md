@@ -1,7 +1,5 @@
 ## Tomatempo
 
-<!--
-
 O Tomatempo é um projeto desenvolvido para a matéria Projeto de Aprendizagem Colaborativa Extensionista.
 
 Nosso projeto tem como objetivo realizar uma oficina voltada à comunidade, apresentando conceitos introdutórios de programação para iniciantes. Durante a atividade, serão abordados fundamentos básicos de desenvolvimento web, lógica de programação e introdução à manipulação do DOM (Document Object Model), proporcionando uma experiência acessível e prática para quem deseja dar os primeiros passos na área da tecnologia.
@@ -27,5 +25,3 @@ Otávio Moschetta Alvarez
 HTML
 CSS
 JavaScript
-
--->

@@ -6,22 +6,22 @@ Nosso projeto tem como objetivo realizar uma oficina voltada à comunidade, apre
 
 ## Equipe
 
-Bryan Allan Jahn
-Davi Pedri Vieira
-Eduardo Henrique Rassweiler
-Felipe Fernandes De Mattos
-Fernando Soares Vasconcelos Anjos De Oliveira
-José Vitor Mader
-Junior Gabriel Antunes De Souza
-Júlia Gorges Machado
-Kléber Henrique Jungton Erbes 
-Lucas Vieira Morsch
-Luís Carlos Martins Junior
-Nathalia Bruch Machado Dos Santos
+Bryan Allan Jahn<br>
+Davi Pedri Vieira<br>
+Eduardo Henrique Rassweiler<br>
+Felipe Fernandes De Mattos<br>
+Fernando Soares Vasconcelos Anjos De Oliveira<br>
+José Vitor Mader<br>
+Junior Gabriel Antunes De Souza<br>
+Júlia Gorges Machado<br>
+Kléber Henrique Jungton Erbes<br>
+Lucas Vieira Morsch<br>
+Luís Carlos Martins Junior<br>
+Nathalia Bruch Machado Dos Santos<br>
 Otávio Moschetta Alvarez
 
 ## Tecnologias e Planejamento
 
-HTML
-CSS
+HTML<br>
+CSS<br>
 JavaScript
